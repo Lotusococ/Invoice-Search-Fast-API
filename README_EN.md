@@ -42,3 +42,7 @@ Please be mindful to avoid excessive access to these APIs as it may cause inconv
   
 Please note that **the use of the National Tax Agency's Qualified Invoice Issuer Publication System Web-API is based on information obtained using the Web-API feature of the system, but the content of the service is not guaranteed by the National Tax Agency.**  
 Furthermore, Excel API is operated by Hatolize LLC. For inquiries regarding Excel API, please contact them directly. Thank you for your cooperation.  
+
+## LICENSE
+MIT  
+Copyright (c) 2023 Lotus

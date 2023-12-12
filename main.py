@@ -17,8 +17,8 @@ from sendLog.sendLog import sendLog
 
 # # GET LOCAL ENVIRONMENT VARIABLE
 # # Uncomment for local development
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 app = FastAPI()
 

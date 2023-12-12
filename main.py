@@ -22,6 +22,10 @@ load_dotenv()
 
 app = FastAPI()
 
+@app.get("/")
+async def root():
+    return {"message": "Hello World From Fast API"}
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],

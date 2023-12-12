@@ -2,3 +2,4 @@ fastapi
 pydantic
 azure-identity
 uvicorn
+axiom

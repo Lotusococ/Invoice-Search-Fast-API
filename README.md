@@ -44,4 +44,4 @@ English version of README.md is on [here](/README_EN.md)
 
 ## ライセンス
 MIT  
-Copyright (c) 2023 Lotus
+Copyright (c) 2023-2024 Lotus

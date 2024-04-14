@@ -45,4 +45,4 @@ Furthermore, Excel API is operated by Hatolize LLC. For inquiries regarding Exce
 
 ## LICENSE
 MIT  
-Copyright (c) 2023 Lotus
+Copyright (c) 2023-2024 Lotus
